@@ -1,0 +1,53 @@
+#mainNav {
+  border-bottom: 1px solid rgba(33,37,41,.1);
+  background-color: #fff;
+  -webkit-transition: all .2s;
+  transition: all .2s;
+  padding: 12px;
+}
+
+.bar{
+  padding: 8px 24px;
+}
+
+.top-img {
+  margin: 72px 0px 12px;
+}
+
+.masthead img {
+  width: 100%; 
+  display: block;
+}
+
+header {
+  background-color: rgb(136, 255, 38);
+}
+
+#introduce h2{
+  padding: 12px;
+}
+
+#introduce h4{
+  padding: 24px;
+  font-size: 16px;
+}
+
+.text-uppercase{
+  padding: 8px;
+}
+
+#contact p {
+  margin: 0px;
+}
+
+.description{
+  font-size: 18px;
+}
+
+#contact .copylight {
+  margin: 45px auto;
+}
+
+.section-heading {
+  margin: 25px;
+}
